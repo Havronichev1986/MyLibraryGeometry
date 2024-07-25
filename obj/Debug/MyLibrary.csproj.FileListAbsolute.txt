@@ -1,0 +1,6 @@
+D:\У Ч Е Б А\VisualStudio\MyLibrary\bin\Debug\MyLibrary.dll
+D:\У Ч Е Б А\VisualStudio\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\У Ч Е Б А\VisualStudio\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+D:\У Ч Е Б А\VisualStudio\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+D:\У Ч Е Б А\VisualStudio\MyLibrary\obj\Debug\MyLibrary.dll
+D:\У Ч Е Б А\VisualStudio\MyLibrary\obj\Debug\MyLibrary.pdb
